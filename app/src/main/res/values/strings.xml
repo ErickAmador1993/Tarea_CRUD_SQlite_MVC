@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea_CRUD_SQlite_MVC</string>
+    <string name="hint_nombre">NOMBRE:</string>
+    <string name="hint_apellidos">APELLIDO:</string>
+    <string name="hint_edad">EDAD:</string>
+    <string name="hint_direccion">DIRECCION:</string>
+    <string name="hint_puestos">PUESTO:</string>
+    <string name="btn_guarda">GUARDAR REGISTRO</string>
+    <string name="menu_nuevo">NUEVO REGISTRO</string>
+
+</resources>
